@@ -61,6 +61,7 @@ education:
       details: |
         CCA: Robotics Technological Society, Boys Brigade
         Status: Still schooling
+			
 experiences:
     - role: Youth Cyber Exploration Programme and YCEP CTF
       time: 2020
@@ -79,6 +80,7 @@ experiences:
         Team: HATS Singapore
         
         24 Hour online CTF
+		
    - role: InCTF 2020
       time: 2020
       company: Online, Organised by bi0s
@@ -127,7 +129,7 @@ experiences:
         Achievement: Champion
         
         My first time winning an Individual CTF event               
-              
+
 
 projects:
     title: Projects
