@@ -51,16 +51,14 @@ career-profile:
       I mostly work with forensics challenges but I am actively learning about
       binary exploitation and cryptography too!
       Additionally, I am also the programmer for ACSI Robotics Team 8059 Blank and won several robotics competitions.
-      In my spare time, I usually CAD or 3D print or head out to practice my photography. 
-      
+      In my spare time, I usually CAD or 3D print or head out to practice my photography.       
 education:
     - degree: Integrated Programme (IP)
       university: Anglo-Chinese School (Independent)
       time: 2017 - Present
       details: |
         CCA: Robotics Technological Society, Boys Brigade
-        Status: Still schooling
-			
+        Status: Still schooling		
 experiences:
     - role: Youth Cyber Exploration Programme and YCEP CTF
       time: 2020
@@ -69,7 +67,6 @@ experiences:
         Achievement: 6th Place overall
         
         My first CTF ever!
-      
     - role: CyBRICS CTF 2020 
       time: 2020
       company: Online, Organised by SPbCTF (members from LC↯BC / MSLC, SiBears, PeterPEN, Yozik)
@@ -79,7 +76,6 @@ experiences:
         Team: HATS Singapore
         
         24 Hour online CTF
-		
    - role: InCTF 2020
       time: 2020
       company: Online, Organised by bi0s
@@ -87,31 +83,27 @@ experiences:
         Achievement: 39th Place
         
         Team: HATS Singapore
-      
     - role: CSAW CTF Qualification Round 2020
       time: 2020
       company: Online, Organised by NYUSEC
       details: |
         Achievement: 73rd Place
         
-        Team: HATS Singapore
-       
+        Team: HATS Singapore 
     - role: Down Under CTF 2020
       time: 2020
       company: Online, Organised by DownUnderCTF
       details: |
         Achievement: 23rd Place
         
-        Team: OpenToAll
-        
+        Team: OpenToAll 
     - role: Stack The Flag CTF
       time: 2020
       company: Singapore, Govtech CSG
       details: |
         Achievement: 5th Place, JC/ITE/IP Category (Category 3)
         
-        Team: What's CTF?
-        
+        Team: What's CTF? 
     - role: X-MAS CTF 2020
       time: 2020
       company: Online, Organised by Hecării, Țuica și Păunii
@@ -128,17 +120,14 @@ experiences:
         Achievement: Champion
         
         My first time winning an Individual CTF event               
-
 projects:
     title: Projects
     intro: >
       Some of the things I have done in my free time. 
     assignments:
-    
       - title: Building a 3d Printer
         link: "#"
         tagline: "Built my own 3D printer from scratch over the school holidays in 2020 and 2019"
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
