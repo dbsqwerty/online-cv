@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Sean Seah
+    tagline: CTF Player, Interested in cybersecurity
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: sean.seah0311@gmail.com
+    phone: 
+    website: 
+    linkedin: sean-seah-02bba5203
+    github: dbsqwerty
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,162 +29,116 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+     - idiom: Chinese
+        level: Mother Tongue
 
     interests:
-      - item: Climbing
+      - item: Capture The Flag Competitions
         link:
 
-      - item: Snowboarding
+      - item: 3D Printing
         link:
 
-      - item: Cooking
+      - item: Robotics (Vex Team 8059 Blank)
         link:
 
 career-profile:
-    title: Career Profile
+    title: whoami
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am Sean Seah, a 16 year old kid usually going by the handle dbsqwerty or dbsqwerty123.
+      I am currently in the Integrated Programme in Anglo Chinese School Indepednent in Singapore.
+      CTFs are my biggest passion, and I usually play in teams HATS Singapore as well as OpenToAll or with my fellow schoolmates and seniors.
+      I mostly work with forensics challenges but I am actively learning about
+      binary exploitation and cryptography too!
+      Additionally, I am also the programmer for ACSI Robotics Team 8059 Blank and won several robotics competitions.
+      In my spare time, I usually CAD or 3D print or head out to practice my photography. 
+      
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Integrated Programme (IP)
+      university: Anglo-Chinese School (Independent)
+      time: 2017 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        CCA: Robotics Technological Society, Boys Brigade
+        Status: Still schooling
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Youth Cyber Exploration Programme and YCEP CTF
+      time: 2020
+      company: CSA, Cyber Youth Singapore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Achievement: 6th Place overall
+        
+        My first CTF ever!
+      
+    - role: CyBRICS CTF 2020 
+      time: 2020
+      company: Online, Organised by SPbCTF (members from LC↯BC / MSLC, SiBears, PeterPEN, Yozik)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Achievement: 12th
+        
+        Team: HATS Singapore
+        
+        24 Hour online CTF
+   - role: InCTF 2020
+      time: 2020
+      company: Online, Organised by bi0s
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Achievement: 39th Place
+        
+        Team: HATS Singapore
+      
+    - role: CSAW CTF Qualification Round 2020
+      time: 2020
+      company: Online, Organised by NYUSEC
+      details: |
+        Achievement: 73rd Place
+        
+        Team: HATS Singapore
+       
+    - role: Down Under CTF 2020
+      time: 2020
+      company: Online, Organised by DownUnderCTF
+      details: |
+        Achievement: 23rd Place
+        
+        Team: OpenToAll
+        
+    - role: Stack The Flag CTF
+      time: 2020
+      company: Singapore, Govtech CSG
+      details: |
+        Achievement: 5th Place, JC/ITE/IP Category (Category 3)
+        
+        Team: What's CTF?
+        
+    - role: X-MAS CTF 2020
+      time: 2020
+      company: Online, Organised by Hecării, Țuica și Păunii
+      details: |
+        Achievement: 31st Place
+        
+        Team: CTF GTF
+        
+        First CTF I played with both my juniors and my seniors
+  - role: Sieberrsec CTF 2.0
+      time: 2021
+      company: Online, Organised by HCI IRS (Sieberrsec)
+      details: |
+        Achievement: Champion
+        
+        My first time winning an Individual CTF event               
+              
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the things I have done in my free time. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+    
+      - title: Building a 3d Printer
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Built my own 3D printer from scratch over the school holidays in 2020 and 2019"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
