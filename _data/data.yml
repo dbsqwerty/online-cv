@@ -29,7 +29,7 @@ sidebar:
       - idiom: English
         level: Native
 
-     -  idiom: Chinese
+      - idiom: Chinese
         level: Mother Tongue
 
     interests:
@@ -76,7 +76,7 @@ experiences:
         Team: HATS Singapore
         
         24 Hour online CTF
-   - role: InCTF 2020
+    - role: InCTF 2020
       time: 2020
       company: Online, Organised by bi0s
       details: |
@@ -113,7 +113,7 @@ experiences:
         Team: CTF GTF
         
         First CTF I played with both my juniors and my seniors
-  - role: Sieberrsec CTF 2.0
+    - role: Sieberrsec CTF 2.0
       time: 2021
       company: Online, Organised by HCI IRS (Sieberrsec)
       details: |
