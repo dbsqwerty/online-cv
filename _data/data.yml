@@ -45,13 +45,15 @@ sidebar:
 career-profile:
     title: whoami
     summary: |
-      I am Sean Seah, a 16 year old kid usually going by the handle dbsqwerty or dbsqwerty123.
-      I am currently in the Integrated Programme in Anglo Chinese School Indepednent in Singapore.
-      CTFs are my biggest passion, and I usually play in teams HATS Singapore as well as OpenToAll or with my fellow schoolmates and seniors.
-      I mostly work with forensics challenges but I am actively learning about
-      binary exploitation and cryptography too!
-      Additionally, I am also the programmer for ACSI Robotics Team 8059 Blank and won several robotics competitions.
-      In my spare time, I usually CAD or 3D print or head out to practice my photography.       
+  I am Sean Seah, a nearly 16-year-old kid (getting there) usually going by the
+  handle dbsqwerty or dbsqwerty123. I am currently in the Integrated Programme
+  in Anglo Chinese School Independent in Singapore. CTFs are my biggest passion,
+  and I usually play in teams HATS Singapore as well as OpenToAll or with my
+  fellow schoolmates and seniors. I mostly work with forensics challenges, but I
+  am actively learning about binary exploitation and cryptography too!
+  Additionally, I am also the programmer for ACSI Robotics Team 8059 Blank and
+  won several robotics competitions.     In my spare time, I usually CAD or 3D
+  print or head out to practice my photography. 
 education:
     - degree: Integrated Programme (IP)
       university: Anglo-Chinese School (Independent)
