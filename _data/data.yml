@@ -1,135 +1,125 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
-sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Sean Seah
-    tagline: CTF Player, Interested in cybersecurity, robotics and 3D printing
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-    email: sean.seah0311@gmail.com
-    phone: 
-    website: 
-    linkedin: sean-seah-02bba5203
-    github: dbsqwerty
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: Chinese
-        level: Mother Tongue
-
-    interests:
-      - item: Capture The Flag Competitions
-        link:
-
-      - item: 3D Printing
-        link:
-
-      - item: Robotics (Vex Team 8059 Blank)
-        link:
-
-career-profile:
-    title: whoami
-    summary: |
-  I am Sean Seah, a nearly 16-year-old kid (getting there) usually going by the
-  handle dbsqwerty or dbsqwerty123. I am currently in the Integrated Programme
-  in Anglo Chinese School Independent in Singapore. CTFs are my biggest passion,
-  and I usually play in teams HATS Singapore as well as OpenToAll or with my
-  fellow schoolmates and seniors. I mostly work with forensics challenges, but I
-  am actively learning about binary exploitation and cryptography too!
-  Additionally, I am also the programmer for ACSI Robotics Team 8059 Blank and
-  won several robotics competitions.     In my spare time, I usually CAD or 3D
-  print or head out to practice my photography. 
-education:
-    - degree: Integrated Programme (IP)
-      university: Anglo-Chinese School (Independent)
-      time: 2017 - Present
-      details: |
+--- 
+career-profile: 
+  summary: "I am Sean Seah, a nearly 16-year-old kid (getting there) usually going by   \n\
+      the handle dbsqwerty or dbsqwerty123. I am currently in the Integrated \n\
+      Programme in Anglo Chinese School Independent in Singapore. CTFs are my \n\
+      biggest passion, and I usually play in teams HATS Singapore as well as \n\
+      OpenToAll or with my fellow schoolmates and seniors. I mostly work with \n\
+      forensics challenges, but I am actively learning about binary exploitation \n\
+      and cryptography too! Additionally, I am also the programmer for ACSI \n\
+      Robotics Team 8059 Blank and won several robotics competitions. In my spare  \n\
+      time, I usually CAD or 3D print or head out to practice my photography.       \n"
+  title: whoami
+education: 
+  - 
+    degree: "Integrated Programme (IP)"
+    details: |
         CCA: Robotics Technological Society, Boys Brigade
         Status: Still schooling		
-experiences:
-    - role: Youth Cyber Exploration Programme and YCEP CTF
-      time: 2020
-      company: CSA, Cyber Youth Singapore
-      details: |
+    time: "2017 - Present"
+    university: "Anglo-Chinese School (Independent)"
+experiences: 
+  - 
+    company: "CSA, Cyber Youth Singapore"
+    details: |
         Achievement: 6th Place overall
         
         My first CTF ever!
-    - role: CyBRICS CTF 2020 
-      time: 2020
-      company: Online, Organised by SPbCTF (members from LC↯BC / MSLC, SiBears, PeterPEN, Yozik)
-      details: |
+    role: "Youth Cyber Exploration Programme and YCEP CTF"
+    time: 2020
+  - 
+    company: "Online, Organised by SPbCTF (members from LC↯BC / MSLC, SiBears, PeterPEN, Yozik)"
+    details: |
         Achievement: 12th
         
         Team: HATS Singapore
         
         24 Hour online CTF
-    - role: InCTF 2020
-      time: 2020
-      company: Online, Organised by bi0s
-      details: |
+    role: "CyBRICS CTF 2020"
+    time: 2020
+  - 
+    company: "Online, Organised by bi0s"
+    details: |
         Achievement: 39th Place
         
         Team: HATS Singapore
-    - role: CSAW CTF Qualification Round 2020
-      time: 2020
-      company: Online, Organised by NYUSEC
-      details: |
-        Achievement: 73rd Place
-        
-        Team: HATS Singapore 
-    - role: Down Under CTF 2020
-      time: 2020
-      company: Online, Organised by DownUnderCTF
-      details: |
-        Achievement: 23rd Place
-        
-        Team: OpenToAll 
-    - role: Stack The Flag CTF
-      time: 2020
-      company: Singapore, Govtech CSG
-      details: |
-        Achievement: 5th Place, JC/ITE/IP Category (Category 3)
-        
-        Team: What's CTF? 
-    - role: X-MAS CTF 2020
-      time: 2020
-      company: Online, Organised by Hecării, Țuica și Păunii
-      details: |
+    role: "InCTF 2020"
+    time: 2020
+  - 
+    company: "Online, Organised by NYUSEC"
+    details: "Achievement: 73rd Place\n\n\
+        Team: HATS Singapore \n"
+    role: "CSAW CTF Qualification Round 2020"
+    time: 2020
+  - 
+    company: "Online, Organised by DownUnderCTF"
+    details: "Achievement: 23rd Place\n\n\
+        Team: OpenToAll \n"
+    role: "Down Under CTF 2020"
+    time: 2020
+  - 
+    company: "Singapore, Govtech CSG"
+    details: "Achievement: 5th Place, JC/ITE/IP Category (Category 3)\n\n\
+        Team: What's CTF? \n"
+    role: "Stack The Flag CTF"
+    time: 2020
+  - 
+    company: "Online, Organised by Hecării, Țuica și Păunii"
+    details: |
         Achievement: 31st Place
         
         Team: CTF GTF
         
         First CTF I played with both my juniors and my seniors
-    - role: Sieberrsec CTF 2.0
-      time: 2021
-      company: Online, Organised by HCI IRS (Sieberrsec)
-      details: |
-        Achievement: Champion
-        
-        My first time winning an Individual CTF event               
-projects:
-    title: Projects
-    intro: >
-      Some of the things I have done in my free time. 
-    assignments:
-      - title: Building a 3d Printer
-        link: "#"
-        tagline: "Built my own 3D printer from scratch over the school holidays in 2020 and 2019"
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    role: "X-MAS CTF 2020"
+    time: 2020
+  - 
+    company: "Online, Organised by HCI IRS (Sieberrsec)"
+    details: "Achievement: Champion\n\n\
+        My first time winning an Individual CTF event               \n"
+    role: "Sieberrsec CTF 2.0"
+    time: 2021
+footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>"
+projects: 
+  assignments: 
+    - 
+      link: "#"
+      tagline: "Built my own 3D printer from scratch over the school holidays in 2020 and 2019"
+      title: "Building a 3d Printer"
+  intro: "Some of the things I have done in my free time. \n"
+  title: Projects
+sidebar: 
+  about: false
+  avatar: profile.png
+  bitbucket: ~
+  codewars: ~
+  education: true
+  email: sean.seah0311@gmail.com
+  github: dbsqwerty
+  gitlab: ~
+  goodreads: ~
+  interests: 
+    - 
+      item: "Capture The Flag Competitions"
+      link: ~
+    - 
+      item: "3D Printing"
+      link: ~
+    - 
+      item: "Robotics (Vex Team 8059 Blank)"
+      link: ~
+  languages: 
+    - 
+      idiom: English
+      level: Native
+    - 
+      idiom: Chinese
+      level: "Mother Tongue"
+  linkedin: sean-seah-02bba5203
+  name: "Sean Seah"
+  phone: ~
+  stack-overflow: ~
+  tagline: "CTF Player, Interested in cybersecurity, robotics and 3D printing"
+  telegram: ~
+  twitter: ~
+  website: ~
