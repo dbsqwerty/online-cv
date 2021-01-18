@@ -1,6 +1,8 @@
 # Online CV
 
-# Readme from Jekyll Themes
+Sean's CV: https://dbsqwerty.github.io/online-cv/
+
+### Readme from Jekyll Themes
 ```
 <a href="https://jekyll-themes.com">
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
