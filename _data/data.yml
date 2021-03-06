@@ -47,21 +47,22 @@ experiences:
         My first time winning an Individual CTF event               \n"
     role: "Sieberrsec CTF 2.0"
     time: 2021
-   - 
+  - 
     company: "CSA Cisco"
-    details: "Achievement: 3rd Place\n\n\"
-        Team: "Crappy Crypto Problems \n"
+    details: "Achievement: 3rd Place\n\n\
+        Team: Crappy Crypto Problems \n"
     role: "CSA-Cisco Youth Cyber Challenge 2021"
     time: 2021
-    - 
+  - 
     company: "The CyberGrabs"
-    details: "Achievement: 2nd Place\n\n\ My First time winning prizes in an online/international CTF \n"
-        Team: "CATS SG \n"
+    details: "Achievement: 2nd Place\n\n\ My First time winning prizes in an online/international CTF \n
+        Team: CATS SG \n"
     role: "The Cyber Grabs CTF 0x02"
     time: 2021
- - 
-    company: "GCC 2021"
-    details: "Participant of the Global Cybersecurity Camp (GCC). GCC is an annual international week-long cybersecurity talent development camp organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\
+  - 
+    company: "Global Cybersecuity Camp 2021"
+    details: |
+        Participant of the Global Cybersecurity Camp (GCC). GCC is an annual international week-long cybersecurity talent development camp organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\
     time: 2021
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>"
 projects: 
