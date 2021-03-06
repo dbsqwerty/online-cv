@@ -60,10 +60,10 @@ experiences:
     role: "The Cyber Grabs CTF 0x02"
     time: 2021
   - 
-    role: "Global Cybersecuity Camp 2021"
     comapny: "AIS3, Taiwan"
     details: |
         Participant of the Global Cybersecurity Camp (GCC). GCC is an annual international week-long cybersecurity talent development camp organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\
+    role: "Global Cybersecuity Camp 2021"
     time: 2021
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>"
 projects: 
