@@ -20,14 +20,6 @@ education:
     university: "Anglo-Chinese School (Independent)"
 experiences: 
   - 
-    company: "CSA, Cyber Youth Singapore"
-    details: |
-        Achievement: 6th Place overall
-        
-        My first CTF ever!
-    role: "Youth Cyber Exploration Programme and YCEP CTF"
-    time: 2020
-  - 
     company: "Online, Organised by SPbCTF (members from LC↯BC / MSLC, SiBears, PeterPEN, Yozik)"
     details: |
         Achievement: 12th
@@ -36,20 +28,6 @@ experiences:
         
         24 Hour online CTF
     role: "CyBRICS CTF 2020"
-    time: 2020
-  - 
-    company: "Online, Organised by bi0s"
-    details: |
-        Achievement: 39th Place
-        
-        Team: HATS Singapore
-    role: "InCTF 2020"
-    time: 2020
-  - 
-    company: "Online, Organised by NYUSEC"
-    details: "Achievement: 73rd Place\n\n\
-        Team: HATS Singapore \n"
-    role: "CSAW CTF Qualification Round 2020"
     time: 2020
   - 
     company: "Online, Organised by DownUnderCTF"
@@ -64,20 +42,26 @@ experiences:
     role: "Stack The Flag CTF"
     time: 2020
   - 
-    company: "Online, Organised by Hecării, Țuica și Păunii"
-    details: |
-        Achievement: 31st Place
-        
-        Team: CTF GTF
-        
-        First CTF I played with both my juniors and my seniors
-    role: "X-MAS CTF 2020"
-    time: 2020
-  - 
     company: "Online, Organised by HCI IRS (Sieberrsec)"
     details: "Achievement: Champion\n\n\
         My first time winning an Individual CTF event               \n"
     role: "Sieberrsec CTF 2.0"
+    time: 2021
+   - 
+    company: "CSA Cisco"
+    details: "Achievement: 3rd Place\n\n\"
+        Team: "Crappy Crypto Problems \n"
+    role: "CSA-Cisco Youth Cyber Challenge 2021"
+    time: 2021
+    - 
+    company: "The CyberGrabs"
+    details: "Achievement: 2nd Place\n\n\ My First time winning prizes in an online/international CTF \n"
+        Team: "CATS SG \n"
+    role: "The Cyber Grabs CTF 0x02"
+    time: 2021
+ - 
+    company: "GCC 2021"
+    details: "Participant of the Global Cybersecurity Camp (GCC). GCC is an annual international week-long cybersecurity talent development camp organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\
     time: 2021
 footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>"
 projects: 
