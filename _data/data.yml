@@ -48,7 +48,7 @@ experiences:
     role: "Sieberrsec CTF 2.0"
     time: 2021
   - 
-    company: "CSA Cisco"
+    company: "CSA/Cisco"
     details: "Achievement: 3rd Place\n\n\
         Team: Crappy Crypto Problems \n"
     role: "CSA-Cisco Youth Cyber Challenge 2021"
@@ -60,7 +60,7 @@ experiences:
     role: "The Cyber Grabs CTF 0x02"
     time: 2021
   - 
-    company: "Global Cybersecuity Camp 2021"
+    role: "Global Cybersecuity Camp 2021"
     details: |
         Participant of the Global Cybersecurity Camp (GCC). GCC is an annual international week-long cybersecurity talent development camp organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\
     time: 2021
