@@ -1,13 +1,12 @@
  
 career-profile: 
-  summary: "I am Sean Seah, a nearly 16-year-old kid (getting there) usually going by   \n\
-      the handle dbsqwerty or dbsqwerty123 or a_lazy_cat. I am currently in the \n\
-      Integrated Programme in Anglo Chinese School Independent in Singapore. \n\
-      CTFs are my biggest passion, and I usually play with HATS Singapore as \n\
-      well as  OpenToAll or with my friends. I am mostly interested in forensics, 
-      but I am actively learning about binary exploitation and cryptography too! \n\
-      I am also the programmer for ACSI Robotics Team 8059 Blank and won several \n\ 
-      robotics competitions. In my spare time, I enjoy doing CAD, 3D-Printing and photography \n"
+  summary: "I am Sean Seah, a nearly 16-year-old kid (getting there) usually going by the handle dbsqwerty or\n\
+      dbsqwerty123 or a_lazy_cat. I am currently in the Integrated Programme in Anglo Chinese School\n\
+      Independent in Singapore. CTFs are my biggest passion, and I usually play with HATS Singapore as well\n\
+      as OpenToAll or with my friends. I am mostly interested in forensics, but I am actively learning about\n\
+      binary exploitation and cryptography too! I am also the programmer for ACSI Robotics Team 8059\n\
+      Blank and won several robotics competitions. In my spare time, I enjoy doing CAD, 3D-Printing and\n\ 
+      photography.\n"
   title: About Me
 education: 
   - 
@@ -28,28 +27,28 @@ experiences:
     company: "CSA/Cisco"
     details: "Achievement: 3rd Place\n\n\
         Team: Crappy Crypto Problems \n"
-    role: "CSA-Cisco Youth Cyber Challenge 2021"
+    role: "CSA-Cisco Youth Cyber Challenge"
     time: 2021
   - 
-    comapny: "Taiwan, Online"
+    company: "Taiwan, Online"
     details: "Participant of the Global Cybersecurity Camp (GCC) organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\ "
     role: "Global Cybersecuity Camp (GCC)"
     time: 2021
   - 
-    comapny: "DSO/NUS"
+    company: "DSO/NUS"
     details: "Achievement: 11th Place\n\n\
         Team: Crappy Crypto Problems \n"
     role: "NUS DSO CTF"
     time: 2021
   - 
-    comapny: "SMU Whitehat Society"
+    company: "SMU Whitehat Society"
     details: "Champion Team\n\n\
         Team: Cat Cracking Crypto Problems \n"
-    role: "Whitehacks"
-    time: 2021
+    role: "Whitehacks CTF"
+    time: 2021 
   - 
-    comapny: "Cyber Youth Academy"
-    details: "Lead the Curriculum Development Team in developing Curriculum to educate youth in Singapore about cybersecurity"
+    company: "Cyber Youth Academy Singapore"
+    details: "Lead the Curriculum Development Team in developing Curriculum to educate youth in Singapore about cybersecurity\n\n "
     role: "Senior Deputy Director of Curriculum Development"
     time: 2021 - Present
 footer: ""
