@@ -1,15 +1,14 @@
---- 
+ 
 career-profile: 
   summary: "I am Sean Seah, a nearly 16-year-old kid (getting there) usually going by   \n\
-      the handle dbsqwerty or dbsqwerty123 or a_lazy_cat. I am currently in the Integrated \n\
-      Programme in Anglo Chinese School Independent in Singapore. CTFs are my \n\
-      biggest passion, and I usually play in teams HATS Singapore as well as \n\
-      OpenToAll or with my fellow schoolmates and seniors. I mostly work with \n\
-      forensics challenges, but I am actively learning about binary exploitation \n\
-      and cryptography too! Additionally, I am also the programmer for ACSI \n\
-      Robotics Team 8059 Blank and won several robotics competitions. In my spare  \n\
-      time, I usually CAD or 3D print or head out to practice my photography.       \n"
-  title: whoami
+      the handle dbsqwerty or dbsqwerty123 or a_lazy_cat. I am currently in the \n\
+      Integrated Programme in Anglo Chinese School Independent in Singapore. \n\
+      CTFs are my biggest passion, and I usually play with HATS Singapore as \n\
+      well as  OpenToAll or with my friends. I am mostly interested in forensics, 
+      but I am actively learning about binary exploitation and cryptography too! \n\
+      I am also the programmer for ACSI Robotics Team 8059 Blank and won several \n\ 
+      robotics competitions. In my spare time, I enjoy doing CAD, 3D-Printing and photography \n"
+  title: About Me
 education: 
   - 
     degree: "Integrated Programme (IP)"
@@ -20,33 +19,11 @@ education:
     university: "Anglo-Chinese School (Independent)"
 experiences: 
   - 
-    company: "Online, Organised by SPbCTF (members from LC↯BC / MSLC, SiBears, PeterPEN, Yozik)"
-    details: |
-        Achievement: 12th
-        
-        Team: HATS Singapore
-        
-        24 Hour online CTF
-    role: "CyBRICS CTF 2020"
-    time: 2020
-  - 
-    company: "Online, Organised by DownUnderCTF"
-    details: "Achievement: 23rd Place\n\n\
-        Team: OpenToAll \n"
-    role: "Down Under CTF 2020"
-    time: 2020
-  - 
     company: "Singapore, Govtech CSG"
     details: "Achievement: 5th Place, JC/ITE/IP Category (Category 3)\n\n\
         Team: What's CTF? \n"
     role: "Stack The Flag CTF"
     time: 2020
-  - 
-    company: "Online, Organised by HCI IRS (Sieberrsec)"
-    details: "Achievement: Champion\n\n\
-        My first time winning an Individual CTF event               \n"
-    role: "Sieberrsec CTF 2.0"
-    time: 2021
   - 
     company: "CSA/Cisco"
     details: "Achievement: 3rd Place\n\n\
@@ -54,18 +31,28 @@ experiences:
     role: "CSA-Cisco Youth Cyber Challenge 2021"
     time: 2021
   - 
-    company: "The CyberGrabs"
-    details: "Achievement: 2nd Place\n\n\ My First time winning prizes in an online/international CTF \n
-        Team: CATS SG \n"
-    role: "The Cyber Grabs CTF 0x02"
+    comapny: "Taiwan, Online"
+    details: "Participant of the Global Cybersecurity Camp (GCC) organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\ "
+    role: "Global Cybersecuity Camp (GCC)"
     time: 2021
   - 
-    comapny: "AIS3, Taiwan"
-    details: |
-        Participant of the Global Cybersecurity Camp (GCC). GCC is an annual international week-long cybersecurity talent development camp organised by leading cybersecurity communities and institutes from Japan, South Korea, Taiwan, Australia, Malaysia, Thailand and Vietnam.\n\n\
-    role: "Global Cybersecuity Camp 2021"
+    comapny: "DSO/NUS"
+    details: "Achievement: 11th Place\n\n\
+        Team: Crappy Crypto Problems \n"
+    role: "NUS DSO CTF"
     time: 2021
-footer: "Designed with <i class=\"fas fa-heart\"></i> by <a href=\"http://themes.3rdwavemedia.com\" target=\"_blank\" rel=\"nofollow\">Xiaoying Riley</a>"
+  - 
+    comapny: "SMU Whitehat Society"
+    details: "Champion Team\n\n\
+        Team: Cat Cracking Crypto Problems \n"
+    role: "Whitehacks"
+    time: 2021
+  - 
+    comapny: "Cyber Youth Academy"
+    details: "Lead the Curriculum Development Team in developing Curriculum to educate youth in Singapore about cybersecurity"
+    role: "Senior Deputy Director of Curriculum Development"
+    time: 2021 - Present
+footer: ""
 projects: 
   assignments: 
     - 
@@ -74,13 +61,13 @@ projects:
       title: "Building a 3d Printer"
   intro: "Some of the things I have done in my free time. \n"
   title: Projects
+
 sidebar: 
   about: false
   avatar: profile.png
   bitbucket: ~
   codewars: ~
   education: true
-  email: sean.seah0311@gmail.com
   github: dbsqwerty
   gitlab: ~
   goodreads: ~
@@ -89,7 +76,7 @@ sidebar:
       item: "Capture The Flag Competitions"
       link: ~
     - 
-      item: "3D Printing"
+      item: "3D Printing/Computer Aided Design"
       link: ~
     - 
       item: "Robotics (Vex Team 8059 Blank)"
@@ -105,7 +92,9 @@ sidebar:
   name: "Sean Seah"
   phone: ~
   stack-overflow: ~
-  tagline: "CTF Player, Interested in cybersecurity, robotics and 3D printing"
+  tagline: "CTF Player, Interested in cybersecurity, robotics and 3D printing."
   telegram: ~
   twitter: ~
-  website: ~
+  website: seanseah.tech
+  email: seah.seah0311@gmail.com
+
